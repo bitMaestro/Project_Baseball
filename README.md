@@ -1,5 +1,5 @@
 
-This was an earlier project and a glimpse into the horizon of data analytics. Our objective was to pose a question and use Python libraries such as Pandas and Numpy to conduct an analysis on the dataset. I choose the baseball dataset, and in summary, only 32 of 139 unique teams historically have won the World Series. Furthermore, these winning teams all had similar performing team statistics when winning the championship. Only 63 times in the history of the game did teams have equal or better team statistics but fell short of a title. It was a great learning experience and looking back I was such a novice; I have successfully learned a great deal more.
+Completed one of our first projects in data analytics by investigating a dataset. Our objective was to pose a question and use the Python libraries Pandas and Numpy to analyze the dataset. I choose the baseball dataset, and in summary, all the Championship winning teams had similar performing team statistics. More interestingly 63 times in the history of the game did teams have equal or better team statistics from previous World Series Champions but fell short of a title. It was a great learning experience using Pandas and Numpy.
 
 #### Project Overview
 
